@@ -7,8 +7,6 @@ function Navbar() {
     let pages = [
         {name: 'Home', route: '/'},
         {name: 'Dashboard', route: '/dashboard'},
-        {name: 'Customers', route: '/dashboard/customers'},
-        {name: 'Invoices', route: '/dashboard/invoices'},
     ];
 
     let mapOnPages = () => {

@@ -1,12 +1,12 @@
-.navbar {
-    background: #aaa;
+.dashboardNavbar {
+    background: #eee;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 20px;
+    padding: 5px 10px;
 }
 
-.navbar_ul {
+.dashboardNavbar_ul {
     display: flex;
     align-items: center;
     justify-content: flex-start;
